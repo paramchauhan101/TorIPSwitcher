@@ -22,5 +22,5 @@ This program automatically changes your IP address using the Tor network every 3
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/paramchauhan101/TorIPSwitcher.git.git
+git clone https://github.com/paramchauhan101/TorIPSwitcher.git
 cd TorIPSwitcher
